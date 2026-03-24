@@ -1,0 +1,14 @@
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\Fractions\bin\Debug\net10.0\Fractions.exe
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\Fractions\bin\Debug\net10.0\Fractions.deps.json
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\Fractions\bin\Debug\net10.0\Fractions.runtimeconfig.json
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\Fractions\bin\Debug\net10.0\Fractions.dll
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\Fractions\bin\Debug\net10.0\Fractions.pdb
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\Fractions\obj\Debug\net10.0\Fractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\Fractions\obj\Debug\net10.0\Fractions.AssemblyInfoInputs.cache
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\Fractions\obj\Debug\net10.0\Fractions.AssemblyInfo.cs
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\Fractions\obj\Debug\net10.0\Fractions.csproj.CoreCompileInputs.cache
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\Fractions\obj\Debug\net10.0\Fractions.dll
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\Fractions\obj\Debug\net10.0\refint\Fractions.dll
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\Fractions\obj\Debug\net10.0\Fractions.pdb
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\Fractions\obj\Debug\net10.0\Fractions.genruntimeconfig.cache
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\Fractions\obj\Debug\net10.0\ref\Fractions.dll
