@@ -1,0 +1,14 @@
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\ScriptureMemorizer\bin\Debug\net10.0\ScriptureMemorizer.exe
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\ScriptureMemorizer\bin\Debug\net10.0\ScriptureMemorizer.deps.json
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\ScriptureMemorizer\bin\Debug\net10.0\ScriptureMemorizer.runtimeconfig.json
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\ScriptureMemorizer\bin\Debug\net10.0\ScriptureMemorizer.dll
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\ScriptureMemorizer\bin\Debug\net10.0\ScriptureMemorizer.pdb
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.AssemblyInfoInputs.cache
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.AssemblyInfo.cs
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.csproj.CoreCompileInputs.cache
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.dll
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\ScriptureMemorizer\obj\Debug\net10.0\refint\ScriptureMemorizer.dll
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.pdb
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\ScriptureMemorizer\obj\Debug\net10.0\ScriptureMemorizer.genruntimeconfig.cache
+C:\Progamming Files\cse210-ww-student-template-main\cse210-ww-student-template-main\week03\ScriptureMemorizer\obj\Debug\net10.0\ref\ScriptureMemorizer.dll
